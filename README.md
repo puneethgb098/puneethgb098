@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Puneeth G B 
+- 👀 I’m interested in Quant Finance 
+- 🌱 I’m currently learning to code 
+- 💞️ I’m looking to collaborate on quant projects 
+- 📫 How to reach me puneethgb30@gmail.com
